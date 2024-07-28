@@ -16,7 +16,7 @@
             "matchPackageNames": [
                 "ansible"
             ],
-            "matchCurrentVersion": "2.9.9",
+            "matchCurrentVersion": "<=2.9.10",
             "allowedVersions": "<=2.9.14",
             "schedule": [],
             "commitMessageSuffix": "",
