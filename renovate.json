@@ -15,7 +15,7 @@
             ],
             "matchCurrentVersion": "2.9.9",
             "allowedVersions": "==2.9.14",
-            "enabled": true,
+            "enabled": true
         }
     ]
 }
