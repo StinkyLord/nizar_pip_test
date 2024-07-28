@@ -18,20 +18,12 @@
           "ansible"
         ],
         "matchCurrentVersion": "==2.9.9",
-        "allowedVersions": "2.9.14",
+        "allowedVersions": "==2.9.14",
         "schedule": [],
         "commitMessageSuffix": "security",
         "enabled": true,
         "ignoreUnstable": false,
         "dependencyDashboardApproval": false,
-        "prBodyTemplate": "{{{table}}}{{{notes}}}{{{changelogs}}}{{{controls}}}",
-        "prBodyNotes": [
-          "By merging this PR, issue #2 will be automatically resolved and closed:\n\n| **CVE**  | **Severity**     \n|---------------- |-------------| \n| [ CVE-2020-14365 ](https://www.mend.io/vulnerability-database/CVE-2020-14365) | 🔴 High (7.1) | \n| [ CVE-2020-14332 ](https://www.mend.io/vulnerability-database/CVE-2020-14332) | 🟠 Medium (5.5) | \n| [ CVE-2020-10744 ](https://www.mend.io/vulnerability-database/CVE-2020-10744) | 🟠 Medium (5.0) | \n| [ CVE-2020-14330 ](https://www.mend.io/vulnerability-database/CVE-2020-14330) | 🟠 Medium (5.0) | \n| [ CVE-2020-1753 ](https://www.mend.io/vulnerability-database/CVE-2020-1753) | 🟠 Medium (5.0) | \n| [ CVE-2020-1738 ](https://www.mend.io/vulnerability-database/CVE-2020-1738) | 🟡 Low (3.9) | \n\n"
-        ],
-        "suppressNotifications": [
-          "prIgnoreNotification",
-          "prEditNotification"
-        ],
         "baseBranches": [
           "main"
         ],
