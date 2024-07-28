@@ -4,7 +4,7 @@
             "matchPackagePatterns": [
                 "*"
             ],
-            "enabled": true,
+            "enabled": false,
             "ignoreUnstable": true,
             "dependencyDashboardApproval": true,
             "vulnerabilityAlert": false
