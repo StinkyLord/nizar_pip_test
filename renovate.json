@@ -18,7 +18,7 @@
           "ansible"
         ],
         "matchCurrentVersion": "==2.9.9",
-        "allowedVersions": "==2.9.14",
+        "allowedVersions": "2.9.14",
         "schedule": [],
         "commitMessageSuffix": "security",
         "enabled": true,
