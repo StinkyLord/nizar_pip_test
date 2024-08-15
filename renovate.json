@@ -29,7 +29,7 @@
         ],
         "matchFileNames": [
             "requirements.txt"
-        ]
+        ],
         "vulnerabilityAlert": true
       }
     ]
